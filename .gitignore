@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# I want to ignore
+.idea
+
 # C extensions
 *.so
 
